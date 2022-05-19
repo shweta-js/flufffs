@@ -1,0 +1,18 @@
+.upload {
+  width: 70%;
+  float: right;
+  margin: 1rem;
+}
+.btn {
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  width: 8rem;
+  background-color: #fc398a;
+  font-weight: bolder;
+}
+.btn:hover {
+  background-color: #fc398a;
+  color: #fff;
+  font-weight: bolder;
+}

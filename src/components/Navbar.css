@@ -60,7 +60,7 @@ input:focus {
 }
 .icons {
   font-size: x-large;
-  margin: 2.2rem 1rem 1rem;
+  margin: 2.2rem rem 1rem;
   color: grey;
 }
 .person {

@@ -6,6 +6,7 @@ import "./Explore.css"
 const Explore = () => {
     return (
         <div className="explore">
+        {/* <h1 className="explore-h">Explore</h1> */}
        <Topics/>
 
         </div>
